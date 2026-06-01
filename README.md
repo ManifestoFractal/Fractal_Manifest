@@ -4,7 +4,7 @@
 
 > Alfabetizar não é letrar. A fluência em IA não se entrega, se replica.
 
-*Primeira versão pública · maio de 2026.*
+*Versão atual: **1.1.0** · junho de 2026.*
 
 ---
 
@@ -60,7 +60,7 @@ O novo letramento se sustenta sobre três camadas que se aprofundam:
   12. Protocolo de ação para a liderança (a partir de segunda-feira)
   13. Diálogos pedagógicos
 
-📄 Documento completo: [`manifesto.pdf`](manifesto.pdf)
+📄 Documento completo (versão atual): [`manifesto_v1.1.0.pdf`](manifesto_v1.1.0.pdf)
 
 ## A evidência: 12 meses na INOV.AI
 
@@ -87,14 +87,35 @@ de RH.
 - **Autonomia e facilitação, não controle** — substituir o "comando e controle" pelo diálogo.
 - **Maturidade por replicação fractal** — o letramento replica-se organicamente, a partir do Primeiro Nó.
 
-## Como contribuir
+## Como o manifesto evolui
 
-Este manifesto é um **documento vivo**. O debate acontece com a própria mecânica fractal do Git:
+Este manifesto é um **documento vivo** e evolui como um projeto de código aberto — não por
+decreto de um autor, mas de baixo para cima, por contágio e em rede, exatamente como a tese
+que ele defende. A mecânica é a do próprio Git:
 
-- **Discordar de um princípio** → abra uma *issue*.
-- **Propor uma emenda** → abra um *pull request*.
-- A versão final é construída de baixo para cima, por contágio, em rede — exatamente como a
-  tese que ela defende.
+1. **Discordar de um princípio → abra uma _issue_.** Toda objeção, dúvida ou crítica vira uma
+   discussão pública e rastreável.
+2. **Propor uma emenda → abra um _pull request_.** Mudanças concretas no texto entram como PR,
+   com o *diff* à vista e abertas à revisão.
+3. **Deliberar em aberto.** O debate acontece na própria issue ou PR, à vista de todos, sem
+   comitê fechado.
+4. **Consolidar.** Uma emenda aceita é incorporada (*merge*) ao `manifesto.md`, a fonte do
+   documento.
+
+O fluxo, em uma linha: **discordar → emendar → deliberar → consolidar.**
+
+### Versões e releases
+
+Cada conjunto de emendas aceitas gera uma nova versão, seguindo o
+[Versionamento Semântico](https://semver.org/lang/pt-BR/):
+
+- **MAJOR** (ex.: `2.0.0`) — mudança que altera a tese ou um princípio central.
+- **MINOR** (ex.: `1.1.0`) — conteúdo novo e compatível: uma seção, um tema, um exemplo.
+- **PATCH** (ex.: `1.0.1`) — correções de redação, dados ou links, sem mudança de sentido.
+
+O histórico de cada versão é mantido em um changelog versionado, e toda versão
+publicada gera um PDF nomeado por ela (`manifesto_v<versão>.pdf`). A versão vigente é sempre o
+PDF de maior número na raiz do repositório.
 
 ## Autoria (a duas vozes)
 
