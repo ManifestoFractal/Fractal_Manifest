@@ -4,7 +4,7 @@
 
 > Alfabetizar não é letrar. A fluência em IA não se entrega, se replica.
 
-*Versão atual: **1.1.0** · junho de 2026.*
+*Versão atual: **1.2.0** · junho de 2026.*
 
 ---
 
@@ -60,7 +60,7 @@ O novo letramento se sustenta sobre três camadas que se aprofundam:
   12. Protocolo de ação para a liderança (a partir de segunda-feira)
   13. Diálogos pedagógicos
 
-📄 Documento completo (versão atual): [`manifesto_v1.1.0.pdf`](manifesto_v1.1.0.pdf)
+📄 Documento completo (versão atual): [`manifesto_v1.2.0.pdf`](manifesto_v1.2.0.pdf)
 
 ## A evidência: 12 meses na INOV.AI
 
