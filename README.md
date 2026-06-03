@@ -4,7 +4,7 @@
 
 > Alfabetizar não é letrar. A fluência em IA não se entrega, se replica.
 
-*Versão atual: **1.3.1** · junho de 2026.*
+*Versão atual: **1.3.3** · junho de 2026.*
 
 ---
 
@@ -60,7 +60,7 @@ O novo letramento se sustenta sobre três camadas que se aprofundam:
   12. Protocolo de ação para a liderança (a partir de segunda-feira)
   13. Diálogos pedagógicos
 
-📄 Documento completo (versão atual): [`manifesto_v1.3.1.pdf`](manifesto_v1.3.1.pdf)
+📄 Documento completo (versão atual): [`manifesto_v1.3.3.pdf`](manifesto_v1.3.3.pdf)
 
 ## A evidência: 12 meses na INOV.AI
 
@@ -134,6 +134,12 @@ PDF de maior número na raiz do repositório.
 - **Everett Rogers** — *Diffusion of Innovations* (1962).
 - **Albert-László Barabási** — *Linked* (2002).
 - **Damon Centola** — *How Behavior Spreads* (2018).
+
+**Amplificação do intelecto: mente e máquina**
+
+- **Douglas Engelbart** — *Augmenting Human Intellect* (1962).
+- **Andy Clark & David Chalmers** — *The Extended Mind* (1998).
+- **Edwin Hutchins** — *Cognition in the Wild* (1995).
 
 **Aprendizagem, letramento e educação corporativa**
 
