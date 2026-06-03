@@ -4,7 +4,7 @@
 
 > Alfabetizar não é letrar. A fluência em IA não se entrega, se replica.
 
-*Versão atual: **1.2.0** · junho de 2026.*
+*Versão atual: **1.3.1** · junho de 2026.*
 
 ---
 
@@ -60,7 +60,7 @@ O novo letramento se sustenta sobre três camadas que se aprofundam:
   12. Protocolo de ação para a liderança (a partir de segunda-feira)
   13. Diálogos pedagógicos
 
-📄 Documento completo (versão atual): [`manifesto_v1.2.0.pdf`](manifesto_v1.2.0.pdf)
+📄 Documento completo (versão atual): [`manifesto_v1.3.1.pdf`](manifesto_v1.3.1.pdf)
 
 ## A evidência: 12 meses na INOV.AI
 
@@ -128,12 +128,40 @@ PDF de maior número na raiz do repositório.
 
 ## Referências de apoio
 
-- **LDB & CF/88** — Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996) e Constituição Federal de 1988.
+**Sistemas complexos, fractais e redes**
+
+- **Benoît Mandelbrot** — *The Fractal Geometry of Nature* (1982).
+- **Everett Rogers** — *Diffusion of Innovations* (1962).
+- **Albert-László Barabási** — *Linked* (2002).
+- **Damon Centola** — *How Behavior Spreads* (2018).
+
+**Aprendizagem, letramento e educação corporativa**
+
 - **Paulo Freire** — *Extensão ou Comunicação?* (1969).
+- **Magda Soares** — *Letramento: um tema em três gêneros* (1998).
+- **Lev Vygotsky** — *Pensamento e Linguagem* (1934).
+- **Hugo Assmann** — *Reencantar a Educação* (1998).
+- **Edgar Morin** — *Introdução ao Pensamento Complexo* (1990).
+- **Clara Cecchini** — *Aprendiz Ágil* (com Alexandre Teixeira, 2020).
+- **Benjamin Bloom** — *Taxonomy of Educational Objectives* (1956).
+- **Jean Lave & Etienne Wenger** — *Situated Learning* (1991).
+- **Conrado Schlochauer** — *Lifelong Learning* (2021).
+- **Marisa Eboli** — *Educação Corporativa no Brasil: Mitos e Verdades* (2004).
+
+**Unix e software livre**
+
+- **Doug McIlroy** — a filosofia Unix e o *pipe* (Bell System Technical Journal, 1978).
+- **Eric Raymond** — *The Cathedral and the Bazaar* (1999).
+
+**Trabalho, saúde mental e organização**
+
+- **Amy Edmondson** — *The Fearless Organization* (2018).
+- **Adam Grant** — *Think Again* (2021).
+- **Edward Deci & Richard Ryan** — *Self-Determination Theory* (2017).
+- **Technostress e fadiga de mudança** — Ragu-Nathan, Tarafdar et al., *Information Systems Research* (2008).
+- **Arie de Geus** — *The Living Company* (1997).
+- **Frederic Laloux** — *Reinventing Organizations* (2014).
+
+**Evidência: maturidade de IA**
+
 - **MIT Sloan CISR** — Enterprise AI Maturity Framework (pesquisa CISR 2022–2025).
-- **Amy Edmondson & Adam Grant** — segurança psicológica, tipologia de falhas e pensamento científico.
-- **Self-Determination Theory** (Edward Deci & Richard Ryan) — autonomia, competência e pertencimento.
-- **Technostress e fadiga de mudança** (Ragu-Nathan, Tarafdar et al.).
-- **Josh Bersin** — *Learning in the Flow of Work* (2018).
-- **Lev Vygotsky, Hugo Assmann, Edgar Morin, Clara Cecchini** — desenvolvimento, hipertextualidade, complexidade e novas perguntas da aprendizagem.
-- **Talita Azevedo & Lua Couto** — justiça epistemológica / "epistemicídio corporativo" e a empresa como ecossistema vivo.
