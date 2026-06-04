@@ -4,7 +4,7 @@
 
 > Alfabetizar não é letrar. A fluência em IA não se entrega, se replica.
 
-*Versão atual: **1.4.0** · junho de 2026.*
+*Versão atual: **1.4.1** · junho de 2026.*
 
 ---
 
@@ -60,7 +60,7 @@ O novo letramento se sustenta sobre três camadas que se aprofundam:
   12. Protocolo de ação para a liderança (a partir de segunda-feira)
   13. Diálogos pedagógicos
 
-📄 Documento completo (versão atual): [`manifesto_v1.4.0.pdf`](manifesto_v1.4.0.pdf)
+📄 Documento completo (versão atual): [`manifesto_v1.4.1.pdf`](manifesto_v1.4.1.pdf)
 
 ## A evidência: 12 meses na INOV.AI
 
@@ -130,32 +130,32 @@ PDF de maior número na raiz do repositório.
 
 **Sistemas complexos, fractais e redes**
 
-- **Benoît Mandelbrot** — *The Fractal Geometry of Nature* (W. H. Freeman, 1982).
 - **Everett Rogers** — *Diffusion of Innovations* (Free Press, 1962).
+- **Mark Granovetter** — *Threshold Models of Collective Behavior* (*American Journal of Sociology*, 1978).
+- **Benoît Mandelbrot** — *The Fractal Geometry of Nature* (W. H. Freeman, 1982).
 - **Albert-László Barabási** — *Linked* (Perseus, 2002).
 - **Damon Centola** — *How Behavior Spreads* (Princeton University Press, 2018).
-- **Mark Granovetter** — *Threshold Models of Collective Behavior* (*American Journal of Sociology*, 1978).
 
 **Amplificação do intelecto: mente e máquina**
 
 - **J.C.R. Licklider** — *Man-Computer Symbiosis* (*IRE Transactions on Human Factors in Electronics*, 1960).
 - **Douglas Engelbart** — *Augmenting Human Intellect* (relatório técnico, Stanford Research Institute, 1962).
-- **Andy Clark & David Chalmers** — *The Extended Mind* (periódico *Analysis*, 1998).
 - **Edwin Hutchins** — *Cognition in the Wild* (MIT Press, 1995).
+- **Andy Clark & David Chalmers** — *The Extended Mind* (periódico *Analysis*, 1998).
 
 **Aprendizagem, letramento e educação corporativa**
 
-- **Paulo Freire** — *Pedagogia do Oprimido* (orig. 1968; ed. bras. Paz e Terra, 1974) e *Extensão ou Comunicação?* (Paz e Terra, 1969).
-- **Magda Soares** — *Letramento: um tema em três gêneros* (Autêntica, 1998).
-- **Brian Street** — *Literacy in Theory and Practice* (Cambridge University Press, 1984).
 - **Lev Vygotsky** — *Pensamento e Linguagem* (orig. 1934; ed. bras. Martins Fontes).
-- **Hugo Assmann** — *Reencantar a Educação* (Vozes, 1998).
-- **Edgar Morin** — *Introdução ao Pensamento Complexo* (orig. 1990; ed. bras. Sulina).
-- **Clara Cecchini e Alexandre Teixeira** — *Aprendiz Ágil* (Arquipélago, 2020).
 - **Benjamin Bloom** — *Taxonomy of Educational Objectives* (David McKay, 1956).
+- **Paulo Freire** — *Pedagogia do Oprimido* (orig. 1968; ed. bras. Paz e Terra, 1974) e *Extensão ou Comunicação?* (Paz e Terra, 1969).
+- **Brian Street** — *Literacy in Theory and Practice* (Cambridge University Press, 1984).
+- **Edgar Morin** — *Introdução ao Pensamento Complexo* (orig. 1990; ed. bras. Sulina).
 - **Jean Lave & Etienne Wenger** — *Situated Learning* (Cambridge University Press, 1991).
-- **Conrado Schlochauer** — *Lifelong Learners: o poder do aprendizado contínuo* (Editora Gente, 2021).
+- **Magda Soares** — *Letramento: um tema em três gêneros* (Autêntica, 1998).
+- **Hugo Assmann** — *Reencantar a Educação* (Vozes, 1998).
 - **Marisa Eboli** — *Educação Corporativa no Brasil: Mitos e Verdades* (Editora Gente, 2004).
+- **Clara Cecchini e Alexandre Teixeira** — *Aprendiz Ágil* (Arquipélago, 2020).
+- **Conrado Schlochauer** — *Lifelong Learners: o poder do aprendizado contínuo* (Editora Gente, 2021).
 
 **Unix e software livre**
 
@@ -166,14 +166,14 @@ PDF de maior número na raiz do repositório.
 
 **Trabalho, saúde mental e organização**
 
-- **Amy Edmondson** — *The Fearless Organization* (Wiley, 2018).
-- **Adam Grant** — *Think Again* (Viking, 2021).
-- **Edward Deci & Richard Ryan** — *Self-Determination Theory* (Guilford Press, 2017).
-- **Technostress e fadiga de mudança** — Ragu-Nathan, Tarafdar et al., *Information Systems Research* (INFORMS, 2008).
 - **Christina Maslach** — *Burnout: The Cost of Caring* (Prentice-Hall, 1982).
 - **Shoshana Zuboff** — *In the Age of the Smart Machine* (Basic Books, 1988).
 - **Arie de Geus** — *The Living Company* (Harvard Business School Press, 1997).
+- **Technostress e fadiga de mudança** — Ragu-Nathan, Tarafdar et al., *Information Systems Research* (INFORMS, 2008).
 - **Frederic Laloux** — *Reinventing Organizations* (Nelson Parker, 2014).
+- **Edward Deci & Richard Ryan** — *Self-Determination Theory* (Guilford Press, 2017).
+- **Amy Edmondson** — *The Fearless Organization* (Wiley, 2018).
+- **Adam Grant** — *Think Again* (Viking, 2021).
 
 **Evidência: maturidade de IA**
 
