@@ -4,7 +4,7 @@
 
 > Alfabetizar não é letrar. A fluência em IA não se entrega, se replica.
 
-*Versão atual: **1.5.0** · junho de 2026.*
+*Versão atual: **1.6.0** · junho de 2026.*
 
 ---
 
@@ -31,8 +31,8 @@ criticamente a relação entre humano e máquina e reescrevê-la a seu favor).
 O novo letramento se sustenta sobre três camadas que se aprofundam:
 
 1. **Conversar com as máquinas** — estruturar intenção, contexto e formato; iterar e depurar
-   um prompt como se depura um código (*vibecoding* como engenharia, não brincadeira).
-2. **Compreender o que está por baixo** — a proximidade do cru: o terminal, as primitivas, a
+   um prompt como se depura um código (*brainstorm com a máquina* como engenharia, não brincadeira).
+2. **Compreender o que está por baixo** — a proximidade do cru: o ambiente aberto e a
    lógica da máquina. Quem entende a camada de baixo deixa de ser refém da camada de cima.
 3. **Discernir com consciência crítica** — saber quando *não* confiar na máquina, reconhecer
    alucinação e delegação indevida de julgamento. A vigilância epistemológica que protege a
@@ -44,7 +44,7 @@ O novo letramento se sustenta sobre três camadas que se aprofundam:
 - **Parte I — A tese**
   1. A crise: confundimos alfabetização com letramento
   2. O Novo Letramento: ler o mundo para reescrevê-lo com as máquinas
-  3. Por que Linux: a proximidade do cru
+  3. A proximidade do cru: autonomia para a pessoa, soberania para a empresa
 - **Parte II — O mecanismo**
   4. A geometria fractal: como o letramento se replica
   5. O Primeiro Nó: o protocolo de propagação
@@ -60,7 +60,7 @@ O novo letramento se sustenta sobre três camadas que se aprofundam:
   12. Protocolo de ação para a liderança (a partir de segunda-feira)
   13. Diálogos pedagógicos
 
-📄 Documento completo (versão atual): [`manifesto_v1.5.0.pdf`](manifesto_v1.5.0.pdf)
+📄 Documento completo (versão atual): [`manifesto_v1.6.0.pdf`](manifesto_v1.6.0.pdf)
 
 ## A evidência: 12 meses na INOV.AI
 
