@@ -4,7 +4,7 @@
 
 > Alfabetizar não é letrar. A fluência em IA não se entrega, se replica.
 
-*Versão atual: **1.3.3** · junho de 2026.*
+*Versão atual: **1.4.0** · junho de 2026.*
 
 ---
 
@@ -60,7 +60,7 @@ O novo letramento se sustenta sobre três camadas que se aprofundam:
   12. Protocolo de ação para a liderança (a partir de segunda-feira)
   13. Diálogos pedagógicos
 
-📄 Documento completo (versão atual): [`manifesto_v1.3.3.pdf`](manifesto_v1.3.3.pdf)
+📄 Documento completo (versão atual): [`manifesto_v1.4.0.pdf`](manifesto_v1.4.0.pdf)
 
 ## A evidência: 12 meses na INOV.AI
 
@@ -130,44 +130,51 @@ PDF de maior número na raiz do repositório.
 
 **Sistemas complexos, fractais e redes**
 
-- **Benoît Mandelbrot** — *The Fractal Geometry of Nature* (1982).
-- **Everett Rogers** — *Diffusion of Innovations* (1962).
-- **Albert-László Barabási** — *Linked* (2002).
-- **Damon Centola** — *How Behavior Spreads* (2018).
+- **Benoît Mandelbrot** — *The Fractal Geometry of Nature* (W. H. Freeman, 1982).
+- **Everett Rogers** — *Diffusion of Innovations* (Free Press, 1962).
+- **Albert-László Barabási** — *Linked* (Perseus, 2002).
+- **Damon Centola** — *How Behavior Spreads* (Princeton University Press, 2018).
+- **Mark Granovetter** — *Threshold Models of Collective Behavior* (*American Journal of Sociology*, 1978).
 
 **Amplificação do intelecto: mente e máquina**
 
-- **Douglas Engelbart** — *Augmenting Human Intellect* (1962).
-- **Andy Clark & David Chalmers** — *The Extended Mind* (1998).
-- **Edwin Hutchins** — *Cognition in the Wild* (1995).
+- **J.C.R. Licklider** — *Man-Computer Symbiosis* (*IRE Transactions on Human Factors in Electronics*, 1960).
+- **Douglas Engelbart** — *Augmenting Human Intellect* (relatório técnico, Stanford Research Institute, 1962).
+- **Andy Clark & David Chalmers** — *The Extended Mind* (periódico *Analysis*, 1998).
+- **Edwin Hutchins** — *Cognition in the Wild* (MIT Press, 1995).
 
 **Aprendizagem, letramento e educação corporativa**
 
-- **Paulo Freire** — *Extensão ou Comunicação?* (1969).
-- **Magda Soares** — *Letramento: um tema em três gêneros* (1998).
-- **Lev Vygotsky** — *Pensamento e Linguagem* (1934).
-- **Hugo Assmann** — *Reencantar a Educação* (1998).
-- **Edgar Morin** — *Introdução ao Pensamento Complexo* (1990).
-- **Clara Cecchini** — *Aprendiz Ágil* (com Alexandre Teixeira, 2020).
-- **Benjamin Bloom** — *Taxonomy of Educational Objectives* (1956).
-- **Jean Lave & Etienne Wenger** — *Situated Learning* (1991).
-- **Conrado Schlochauer** — *Lifelong Learning* (2021).
-- **Marisa Eboli** — *Educação Corporativa no Brasil: Mitos e Verdades* (2004).
+- **Paulo Freire** — *Pedagogia do Oprimido* (orig. 1968; ed. bras. Paz e Terra, 1974) e *Extensão ou Comunicação?* (Paz e Terra, 1969).
+- **Magda Soares** — *Letramento: um tema em três gêneros* (Autêntica, 1998).
+- **Brian Street** — *Literacy in Theory and Practice* (Cambridge University Press, 1984).
+- **Lev Vygotsky** — *Pensamento e Linguagem* (orig. 1934; ed. bras. Martins Fontes).
+- **Hugo Assmann** — *Reencantar a Educação* (Vozes, 1998).
+- **Edgar Morin** — *Introdução ao Pensamento Complexo* (orig. 1990; ed. bras. Sulina).
+- **Clara Cecchini e Alexandre Teixeira** — *Aprendiz Ágil* (Arquipélago, 2020).
+- **Benjamin Bloom** — *Taxonomy of Educational Objectives* (David McKay, 1956).
+- **Jean Lave & Etienne Wenger** — *Situated Learning* (Cambridge University Press, 1991).
+- **Conrado Schlochauer** — *Lifelong Learners: o poder do aprendizado contínuo* (Editora Gente, 2021).
+- **Marisa Eboli** — *Educação Corporativa no Brasil: Mitos e Verdades* (Editora Gente, 2004).
 
 **Unix e software livre**
 
-- **Doug McIlroy** — a filosofia Unix e o *pipe* (Bell System Technical Journal, 1978).
-- **Eric Raymond** — *The Cathedral and the Bazaar* (1999).
+- **Dennis Ritchie & Ken Thompson** — *The UNIX Time-Sharing System* (*Communications of the ACM*, 1974).
+- **Doug McIlroy** — a filosofia Unix e o *pipe* (*Bell System Technical Journal*, AT&T Bell Labs, 1978).
+- **Richard Stallman** — *GNU Manifesto* (*Dr. Dobb's Journal*, 1985); *Free Software, Free Society* (GNU Press, 2002).
+- **Eric Raymond** — *The Cathedral and the Bazaar* (O'Reilly, 1999).
 
 **Trabalho, saúde mental e organização**
 
-- **Amy Edmondson** — *The Fearless Organization* (2018).
-- **Adam Grant** — *Think Again* (2021).
-- **Edward Deci & Richard Ryan** — *Self-Determination Theory* (2017).
-- **Technostress e fadiga de mudança** — Ragu-Nathan, Tarafdar et al., *Information Systems Research* (2008).
-- **Arie de Geus** — *The Living Company* (1997).
-- **Frederic Laloux** — *Reinventing Organizations* (2014).
+- **Amy Edmondson** — *The Fearless Organization* (Wiley, 2018).
+- **Adam Grant** — *Think Again* (Viking, 2021).
+- **Edward Deci & Richard Ryan** — *Self-Determination Theory* (Guilford Press, 2017).
+- **Technostress e fadiga de mudança** — Ragu-Nathan, Tarafdar et al., *Information Systems Research* (INFORMS, 2008).
+- **Christina Maslach** — *Burnout: The Cost of Caring* (Prentice-Hall, 1982).
+- **Shoshana Zuboff** — *In the Age of the Smart Machine* (Basic Books, 1988).
+- **Arie de Geus** — *The Living Company* (Harvard Business School Press, 1997).
+- **Frederic Laloux** — *Reinventing Organizations* (Nelson Parker, 2014).
 
 **Evidência: maturidade de IA**
 
-- **MIT Sloan CISR** — Enterprise AI Maturity Framework (pesquisa CISR 2022–2025).
+- **MIT Sloan CISR** — Enterprise AI Maturity Framework (pesquisa CISR 2024–2025).
