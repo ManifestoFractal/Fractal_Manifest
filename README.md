@@ -4,7 +4,7 @@
 
 > Alfabetizar não é letrar. A fluência em IA não se entrega, se replica.
 
-*Versão atual: **1.4.1** · junho de 2026.*
+*Versão atual: **1.5.0** · junho de 2026.*
 
 ---
 
@@ -60,7 +60,7 @@ O novo letramento se sustenta sobre três camadas que se aprofundam:
   12. Protocolo de ação para a liderança (a partir de segunda-feira)
   13. Diálogos pedagógicos
 
-📄 Documento completo (versão atual): [`manifesto_v1.4.1.pdf`](manifesto_v1.4.1.pdf)
+📄 Documento completo (versão atual): [`manifesto_v1.5.0.pdf`](manifesto_v1.5.0.pdf)
 
 ## A evidência: 12 meses na INOV.AI
 
@@ -133,8 +133,6 @@ PDF de maior número na raiz do repositório.
 - **Everett Rogers** — *Diffusion of Innovations* (Free Press, 1962).
 - **Mark Granovetter** — *Threshold Models of Collective Behavior* (*American Journal of Sociology*, 1978).
 - **Benoît Mandelbrot** — *The Fractal Geometry of Nature* (W. H. Freeman, 1982).
-- **Albert-László Barabási** — *Linked* (Perseus, 2002).
-- **Damon Centola** — *How Behavior Spreads* (Princeton University Press, 2018).
 
 **Amplificação do intelecto: mente e máquina**
 
