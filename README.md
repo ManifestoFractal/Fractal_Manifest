@@ -4,7 +4,7 @@
 
 > Alfabetizar não é letrar. A fluência em IA não se entrega, se replica.
 
-*Versão atual: **1.6.1** · junho de 2026.*
+*Versão atual: **1.6.3** · junho de 2026.*
 
 ---
 
@@ -58,7 +58,7 @@ O novo letramento se sustenta sobre três camadas que se aprofundam:
   10. Valores e princípios fundamentais
   11. O papel da liderança: impulsionar a replicação
 
-📄 Documento completo (versão atual): [`manifesto_v1.6.2.pdf`](manifesto_v1.6.2.pdf)
+📄 Documento completo (versão atual): [`manifesto_v1.6.3.pdf`](manifesto_v1.6.3.pdf)
 
 ## A evidência: 12 meses na INOV.AI
 

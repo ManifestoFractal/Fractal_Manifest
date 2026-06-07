@@ -3,7 +3,7 @@
 
 > Alfabetizar não é letrar. A fluência em IA não se entrega, se replica.
 
-*Versão 1.6.1 · junho de 2026.*
+*Versão 1.6.3 · junho de 2026.*
 
 ---
 
@@ -101,6 +101,8 @@ Uma honestidade necessária: usamos o fractal como **modelo estrutural**, não c
 
 É exatamente isso que propomos para o letramento em IA: poucas regras simples (curiosidade → brainstorm → ambiente fértil → reflexão coletiva), repetidas em cada escala, gerando uma transformação que nenhum decreto centralizado conseguiria orquestrar.
 
+Essa intuição encontra respaldo empírico e matemático no trabalho dos cientistas David Lazer e Allan Friedman (2007) sobre a relação entre a estrutura de comunicação e o aprendizado coletivo. Ao simularem a resolução de problemas em diferentes redes, eles descobriram um paradoxo: **sistemas com comunicação hiperconectada e centralizada — onde todos copiam instantaneamente a melhor ideia do momento — têm um desempenho pior no longo prazo**. A disseminação rápida demais das informações destrói a diversidade de ideias antes que as pessoas possam experimentar caminhos alternativos. O sistema converge precocemente para soluções medíocres. Em contrapartida, redes com conexões mais locais e descentralizadas — o que chamamos de contágio de nó em nó — preservam a diversidade cognitiva por tempo suficiente para que soluções muito superiores e inovadoras sejam descobertas pela base.
+
 ## 5. O Primeiro Nó: o protocolo de propagação
 
 O convite às lideranças é direto: parem de queimar rios de dinheiro com pacotes pesados e rígidos de treinamento centralizado. Abram a porta a todos, sem triagem, e cultivem o **Primeiro Nó** que daí emergir: aquele colaborador ou microgrupo no qual a curiosidade técnica, o uso de ferramentas abertas e a reflexão coletiva floresceram primeiro.
@@ -128,6 +130,8 @@ Essa integridade só é possível em um ambiente de **segurança psicológica**,
 - **Falhas evitáveis:** desvios operacionais em processos consolidados; exigem correção procedimental.
 - **Falhas complexas:** emergem em alta volatilidade e imprevisibilidade; demandam análise de causa raiz.
 - **Falhas inteligentes:** resultado de experimentos planejados para validar hipóteses; devem ser celebradas e socializadas abertamente como novos saberes.
+
+Os experimentos computacionais de David Lazer e Allan Friedman mostram exatamente por que esse ambiente de segurança é vital. Eles verificaram que o sucesso de longo prazo de um sistema depende de uma "taxa de variação ou erro" na hora de copiar soluções. Quando as pessoas estão sob pressão ou medo, elas tendem a copiar as estratégias alheias de forma rígida e sem alterações, o que estagna a inteligência coletiva. Em um ambiente psicologicamente seguro, o aprendizado não é uma imitação servil: as pessoas se sentem livres para tentar caminhos novos, misturando as soluções que veem ao redor com suas próprias ideias e gerando novas sínteses criativas. A segurança mental é o que transforma a cópia estéril em inovação autêntica.
 
 Já não cabe mais a metáfora da "Netflix da educação". Plataformas de streaming são desenhadas para prender a atenção na tela com dopamina rápida, estimulando consumo linear e passivo. A educação corporativa emancipada visa ao oposto: a pessoa acessa o conhecimento para resolver uma dor prática imediata, aprende rápido o que precisa, fecha a tela e vai para o mundo real praticar. O sucesso do aprendizado mede-se pelo tempo que você passa *fora* da plataforma, criando.
 
@@ -220,6 +224,11 @@ Seu papel a partir de segunda-feira não é impor uma política pesada de aprova
 
 Equipar não é empurrar uma trilha. É cultivar a subida, degrau a degrau, que o próprio trabalho puxa para fora, sem gate nem cobrança, cada um no seu tempo.
 
+Para liderar essa transição, o primeiro passo é saber diagnosticar a natureza do desafio que sua equipe enfrenta, ajustando a dinâmica de gestão de acordo com o cenário:
+
+- **Diante de Problemas Simples (de Solução Única):** São aqueles de causa e efeito diretos, onde existe uma única resposta ideal conhecida e previsível. Aqui, as abordagens tradicionais de gestão funcionam: a comunicação pode ser centralizada, as metas de conformidade são eficientes e o objetivo é a replicação rápida e sem desvios das melhores práticas.
+- **Diante de Problemas Complexos (de Múltiplas Armadilhas):** São aqueles onde as variáveis estão interligadas de forma dinâmica e imprevisível, cheios de caminhos sem saída e soluções aparentes que impedem a verdadeira inovação (como a integração da IA generativa no fluxo de trabalho). Nesses cenários, as metas rígidas de cima para baixo geram convergência precoce para soluções medíocres. O papel da liderança na complexidade não é comandar a solução, mas garantir as condições para que ela emerja: dar autonomia, tolerar a experimentação e nutrir o **Primeiro Nó** na rede para que o contágio local faça o seu trabalho.
+
 1. **Ocupar um ambiente aberto.** Ofereça a todos o acesso a um ambiente que a pessoa possa inspecionar e moldar: Linux e IDEs, as opções abertas que já defendemos. Estar nesse ambiente já é o primeiro nível, a base de onde se sobe: não é preciso ser técnico nem virar administrador de sistema, basta ocupar um lugar onde a máquina é compreensível e ajustável. O Primeiro Nó não é alguém que você aponta; é quem se acende primeiro com o que está aberto a todos, e vira o atrator dos demais. Não é trilha de catálogo nem treinamento imposto, é a rampa de entrada que liberta da dependência de interfaces fechadas e voláteis.
 2. **Ver que a máquina é maleável.** Aproxime as pessoas do código num ambiente interativo, como o Jupyter, onde se vê o resultado surgir linha a linha. É o que desmistifica a programação para quem é de negócio e mostra, na prática, que a máquina não é caixa-preta a obedecer, mas algo compreensível e ajustável.
 3. **Conversar como engenharia.** Disponibilize assistentes de IA modernos no próprio ambiente aberto, em Linux ou num IDE, para tirar a pessoa do bate-papo passivo e levá-la a uma postura de engenharia: estruturar intenção, iterar, construir. O modelo por trás costuma ser proprietário; trate-o como uma assinatura modesta frente ao valor (viável até para uma startup) e como peça **trocável**, já que a habilidade vive no substrato, não no fornecedor.
@@ -249,6 +258,7 @@ Para desconstruir a linearidade e ancorar nossa prática, este manifesto utiliza
 - **Mark Granovetter:** Modelos de limiar (*Threshold Models of Collective Behavior*, *American Journal of Sociology*, 1978). O comportamento não se espalha de cima, mas por reforço local entre vizinhos (a raiz formal da nossa difusão fractal).
 - **Benoît Mandelbrot:** *The Fractal Geometry of Nature* (W. H. Freeman, 1982). A auto-similaridade: regras simples espelhadas geram complexidade emergente.
 - **Edgar Morin:** O princípio hologramático (*Introdução ao Pensamento Complexo*, orig. 1990; ed. bras. Sulina). A parte está no todo e o todo em cada parte; cada microinteração carrega os valores da organização.
+- **David Lazer e Allan Friedman:** *The Network Structure of Exploration and Exploitation* (*Administrative Science Quarterly*, 2007). A modelagem matemática e computacional de que a comunicação descentralizada e as conexões locais (como contágio de nó em nó) são superiores para resolver problemas complexos, enquanto a hiperconectividade centralizada de cima para baixo força uma convergência precoce para soluções medíocres.
 
 ### Amplificação do intelecto: mente e máquina
 - **J.C.R. Licklider e Douglas Engelbart:** *Man-Computer Symbiosis* (*IRE Transactions on Human Factors in Electronics*, 1960) e *Augmenting Human Intellect* (SRI, 1962). O computador não para substituir, mas para amplificar o intelecto.

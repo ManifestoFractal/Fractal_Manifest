@@ -4,9 +4,15 @@ Registro das atualizações do **Manifesto da Educação Corporativa Fractal**.
 
 Formato inspirado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e [Versionamento Semântico](https://semver.org/lang/pt-BR/). Datas em `AAAA-MM-DD`, entradas mais recentes no topo. O histórico por commit está no `git log`.
 
-> **Versão atual:** **1.6.2** (junho/2026).
+> **Versão atual:** **1.6.3** (junho/2026).
 
 ---
+
+## [1.6.3] - 2026-06-07
+
+- **Apoio Científico (David Lazer e Allan Friedman):** Integração das descobertas dos pesquisadores sobre a relação entre a topologia de redes de comunicação e o aprendizado coletivo. Explicitação do paradoxo de que redes hiperconectadas centralizadas (como decretos top-down de adoção de IA) destroem a diversidade cognitiva no curto prazo e geram convergência prematura para soluções medíocres, ao passo que redes locais e descentralizadas (contágio de nó em nó) sustentam a exploração de cenários complexos antes da consolidação do aprendizado.
+- **Diferenciação de Problemas na Gestão:** Detalhamento da metodologia de liderança baseada no tipo de problema. Em problemas simples (de solução única), a replicação rápida e centralizada é eficiente; em problemas complexos (de múltiplas armadilhas e interdependências), o papel do líder passa a ser a proteção da diversidade, o fomento da autonomia e o cultivo do Primeiro Nó.
+- **Segurança Psicológica e Variação:** Conexão entre o ambiente de segurança mental e a tolerância a variações ("erros de cópia"). Sob coerção ou medo, as pessoas copiam de forma estéril e conformista; sob segurança psicológica, elas se sentem livres para misturar soluções, experimentar caminhos novos e inovar autenticamente.
 
 ## [1.6.2] - 2026-06-07
 
