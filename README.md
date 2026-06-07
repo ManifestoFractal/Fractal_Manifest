@@ -4,7 +4,7 @@
 
 > Alfabetizar não é letrar. A fluência em IA não se entrega, se replica.
 
-*Versão atual: **1.6.0** · junho de 2026.*
+*Versão atual: **1.6.1** · junho de 2026.*
 
 ---
 
@@ -48,19 +48,17 @@ O novo letramento se sustenta sobre três camadas que se aprofundam:
 - **Parte II — O mecanismo**
   4. A geometria fractal: como o letramento se replica
   5. O Primeiro Nó: o protocolo de propagação
-  6. A objeção honesta: por que o fractal não abole a governança
 - **Parte III — A condição**
-  7. Saúde mental first: segurança cognitiva como alicerce
-  8. Da invasão cultural à comunicação emancipadora
+  6. Saúde mental first: segurança cognitiva como alicerce
+  7. Da invasão cultural à comunicação emancipadora
 - **Parte IV — A evidência**
-  9. 12 meses na INOV.AI: o fractal em produção
-  10. O referencial MIT Sloan CISR: do Estágio 2 ao Estágio 3
+  8. 12 meses na INOV.AI: o fractal em produção
+  9. O referencial MIT Sloan CISR: do Estágio 2 ao Estágio 3
 - **Parte V — Os compromissos**
-  11. Valores e princípios fundamentais
-  12. Protocolo de ação para a liderança (a partir de segunda-feira)
-  13. Diálogos pedagógicos
+  10. Valores e princípios fundamentais
+  11. O papel da liderança: impulsionar a replicação
 
-📄 Documento completo (versão atual): [`manifesto_v1.6.0.pdf`](manifesto_v1.6.0.pdf)
+📄 Documento completo (versão atual): [`manifesto_v1.6.1.pdf`](manifesto_v1.6.1.pdf)
 
 ## A evidência: 12 meses na INOV.AI
 
@@ -126,7 +124,7 @@ PDF de maior número na raiz do repositório.
   complexos), ex-professor de Caos e Fractais na UERJ, cientista de dados e sócio e diretor de
   inovação e IA da INOV.AI.
 
-## Referências de apoio
+## Referências comentadas e teóricas
 
 **Sistemas complexos, fractais e redes**
 
