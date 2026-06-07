@@ -81,7 +81,7 @@ de RH.
 - **Empoderar e não substituir** — a IA amplifica as faculdades humanas, nunca as substitui.
 - **Saúde mental first** — a integridade mental e emocional é o ponto de partida, não o preço.
 - **Incluir e não isolar** — tirar o debate dos comitês fechados e levá-lo a empresas de todos os portes.
-- **Colaborar e não centralizar** — colaboração horizontal, par a par, livre de silos.
+- **Colaborar e não centralizar** — colaboração horizontal, par a par. A equipe sintonizada funciona como um computador paralelo distribuído, livre de silos.
 - **Autonomia e facilitação, não controle** — substituir o "comando e controle" pelo diálogo.
 - **Maturidade por replicação fractal** — o letramento replica-se organicamente, a partir do Primeiro Nó.
 
@@ -174,3 +174,4 @@ PDF de maior número na raiz do repositório.
 **Evidência: maturidade de IA**
 
 - **MIT Sloan CISR** — Enterprise AI Maturity Framework (pesquisa CISR 2024–2025).
+mework (pesquisa CISR 2024–2025).
